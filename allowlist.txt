@@ -1,0 +1,5 @@
+# fix discord verify emails
+click.discord.com
+
+# fix google top results
+googleadservices.com
